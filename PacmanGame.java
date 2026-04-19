@@ -230,6 +230,6 @@ public class PacmanGame {
             board.checkAndEatFood();
         }
 
-        scanner.close();
+    
     }
 }
